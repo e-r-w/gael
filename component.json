@@ -1,0 +1,10 @@
+{
+  "name": "gael",
+  "version": "0.0.1",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "nib-components/analytics": "0.2.2"
+  }
+}
