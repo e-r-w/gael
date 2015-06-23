@@ -5,7 +5,7 @@ Geddit?
 
 ## Usage
 
-```
+```js
 require('gael')({
   action: 'some jerk made this error'
 });
@@ -13,7 +13,7 @@ require('gael')({
 
 where the action will be the action logged to GA. Alternatively, without the options:
 
-```
+```js
 require('gael')();
 ```
 
